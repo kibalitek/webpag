@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>kibalitek's website</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, inital-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <h1>KIBALITEK</h1>
+        </header>
+            <div class="container">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure id recusandae dignissimos ea earum quam, nisi veniam corporis. Beatae ipsum aperiam optio quibusdam aspernatur rem aliquid nisi praesentium illo laudantium.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque nesciunt veniam aut iure numquam, temporibus voluptatibus delectus sed ea et illo. Adipisci molestiae beatae tempora, enim hic pariatur culpa deleniti saepe libero ipsum aut itaque ipsam quos nihil, rerum iusto! Accusantium, quos neque veritatis esse tenetur illo quasi debitis culpa.
+                </p>
+
+            </div>
+            <div class="withus">
+                <a href="signup.html">signup </a>
+                <a href="log in.html">login </a>
+            </div>
+    </body>
+</html>
