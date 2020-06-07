@@ -1,0 +1,16 @@
+title: Engineering Onboarding
+description: This is a test of the engineering onboarding
+template:
+  repo: engineering-onboarding-template
+  name: engineering-onboarding
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
